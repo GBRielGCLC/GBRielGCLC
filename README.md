@@ -1,12 +1,12 @@
-## Olá eu sou Gabriel Chagas
+## Olá eu sou Gabriel Christyan
 
-- 🔭 hoje eu trabalho como  dev front end
-- 🌱 Estudando Vue.js e Laravel
+- 🔭 Procuro trabalho ou estágio como dev
+- 🌱 Estudando .NET
 
  <div  align="center">
-  <a href="https://github.com/GabrielChagas14">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielChagas14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChagas14&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/GBRielGCLC">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GBRielGCLC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBRielGCLC&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,4 +25,4 @@
  
 </div>
   
- ![Snake animation](https://github.com/GabrielChagas14/GabrielChagas14/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GBRielGCLC/GBRielGCLC/blob/output/github-contribution-grid-snake.svg)
