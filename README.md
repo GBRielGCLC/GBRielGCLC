@@ -1,6 +1,4 @@
 ## Olá eu sou Gabriel Christyan 😃️
-
-- 🔭 Procuro trabalho ou estágio como dev 
  
  <div  align="center">
   <a href="https://github.com/GBRielGCLC">
