@@ -8,7 +8,6 @@ Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicaçõ
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBRielGCLC&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 
-
 ## 🚀 Tecnologias que trabalho
 
 ### 🖥️ Front-end
@@ -21,6 +20,8 @@ Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicaçõ
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+##
+
 ### 📱 Mobile
 
 <div align="center" valing="top"><br>
@@ -28,6 +29,8 @@ Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicaçõ
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
+
+##
 
 ### 🧠 Back-end
 <div align="center" valing="top"><br>
@@ -39,8 +42,7 @@ Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicaçõ
 </div>
 
 ---
-  ##
-  
+
  <div align="center">
   <a href="https://gbrielgclc.github.io/linktree/" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="mailto:gabriel.gclc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
