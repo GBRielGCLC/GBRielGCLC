@@ -1,10 +1,6 @@
 ## 👋 Olá! Eu sou Gabriel Christyan
 
 Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicações web com interfaces modernas e APIs eficientes.
-
-Atualmente estou aprendendo **C# e .NET**, expandindo meus conhecimentos para o  
-Busco oportunidades como **freelancer em projetos front-end ou back-end**, com dedicação, organização e foco em resultados.
-
 ---
 <div  align="center">
   <a href="https://github.com/GBRielGCLC">
@@ -21,8 +17,8 @@ Busco oportunidades como **freelancer em projetos front-end ou back-end**, com d
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
 ### 📱 Mobile
