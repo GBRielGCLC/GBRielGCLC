@@ -1,25 +1,48 @@
-## Olá eu sou Gabriel Christyan 😃️
- 
- <div  align="center">
+## 👋 Olá! Eu sou Gabriel Christyan
+
+Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicações web com interfaces modernas e APIs eficientes.
+
+Atualmente estou aprendendo **C# e .NET**, expandindo meus conhecimentos para o  
+Busco oportunidades como **freelancer em projetos front-end ou back-end**, com dedicação, organização e foco em resultados.
+
+---
+<div  align="center">
   <a href="https://github.com/GBRielGCLC">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GBRielGCLC&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBRielGCLC&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
 
+
+## 🚀 Tecnologias que trabalho
+
+### 🖥️ Front-end
+
 <div align="center" valing="top"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Gabriel-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Gabriel-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-  <img width="40" align="center" alt="Gabriel-php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
-  <img width="40" align="center" alt="Gabriel-GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
- 
+
+### 📱 Mobile
+
+<div align="center" valing="top"><br>
+  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg">
+  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+</div>
+
+### 🧠 Back-end
+<div align="center" valing="top"><br>
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+---
   ##
   
  <div align="center">
@@ -31,4 +54,4 @@
  
 </div>
   
- ![Snake animation](https://github.com/GBRielGCLC/GBRielGCLC/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/GBRielGCLC/GBRielGCLC/blob/output/github-contribution-grid-snake.svg) -->
