@@ -52,4 +52,4 @@ Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicaçõ
  
 </div>
   
-[Snake animation](https://github.com/GBRielGCLC/GBRielGCLC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/GBRielGCLC/GBRielGCLC/blob/output/github-contribution-grid-snake-dark.svg)
