@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Gabriel Christyan
 
-Sou desenvolvedor full-stack com foco em **React e Laravel**, criando aplicações web com interfaces modernas e APIs eficientes.
+Sou desenvolvedor full-stack com foco em **React e Dotnet**, criando aplicações web com interfaces modernas e APIs eficientes.
 ---
 <div  align="center">
   <a href="https://github.com/GBRielGCLC">
